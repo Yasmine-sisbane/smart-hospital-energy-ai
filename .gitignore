@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Models and large files
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# System
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
