@@ -63,6 +63,12 @@ The full project report is available here:
 - Add Spark Streaming
 - Deploy the system on a cloud platform
 
+  ## Demo Video
+
+Watch the project simulation:
+
+[Smart Hospital Energy AI Demo](demo/smart-hospital-energy-ai-demo.mp4)
+
 ## Authors
 - Salek Jihane
 - Sisbane Yasmine
